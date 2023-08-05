@@ -61,7 +61,7 @@ export const data = [
         last: 'Croft',
       },
       total: 1295.75,
-      status: 'Completed',
+      status: 'Processing',
       method: 'Check',
       date: '3 Hour ago',
     },
