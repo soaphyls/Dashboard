@@ -18,7 +18,7 @@ export const data = [
       },
       total: 1195.95,
       status: 'Processing',
-      method: 'PayPal',
+      method: 'FlutterWave',
       date: '23 Minutes ago',
     },
     {
@@ -51,7 +51,7 @@ export const data = [
       },
       total: 175.25,
       status: 'On Hold',
-      method: 'PayPal',
+      method: 'PayStack',
       date: '2 Hour ago',
     },
     {
@@ -105,8 +105,8 @@ export const data = [
         last: 'Thomas',
       },
       total: 218.99,
-      status: 'Completed',
+      status: 'on Hold',
       method: 'MasterCard',
-      date: '1 Day ago',
+      date: '4 Day ago',
     },
   ];
